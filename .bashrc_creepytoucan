@@ -1,0 +1,3 @@
+source ~/tk3lab-ws/venv/bin/activate
+export GZ_SIM_RESOURCE_PATH=$GZ_SIM_RESOURCE_PATH:${TK3LAB_WS}/gazebo/models
+export GZ_SIM_SYSTEM_PLUGIN_PATH=$GZ_SIM_SYSTEM_PLUGIN_PATH:${TK3LAB_WS}/gazebo/plugins
